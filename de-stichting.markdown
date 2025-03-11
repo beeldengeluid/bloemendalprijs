@@ -38,8 +38,7 @@ Balans en staat van baten en lasten:
 * [2020-2021](/uploads/Jaarcijfers%202021%20Stichting%20Philip%20Bloemendal%20(1).pdf)
 * [2021-2022](/uploads/Jaarrekening%202022%20Stichting%20Philip%20Bloemendal%20(1).pdf)
 * [2022-2023](/uploads/Jaarrekening%202023%20Stichting%20Philip%20Bloemendal-f34cf9.pdf)
-
-
+* [2023-2024](/uploads/2023-2024.pdf)
 
 
 Verantwoording:
@@ -49,6 +48,7 @@ Verantwoording:
 * [Jaarverslag 2020-2021](/uploads/Jaarverslag%20PBP%202021.pdf)
 * [Jaarverslag 2021-2022](/uploads/Verantwoording%202022%20bestuur%20Philip%20Bloemendal%20Prijs.docx)
 * [Jaarverslag 2022-2023](/uploads/Jaarverslag%202022-2023.docx.pdf)
+* [Jaarverslag 2023-2024](/uploads/Jaarverslag2023-2024.pdf)
 
 
 Telefoon: 035 - 6775555  
