@@ -8,7 +8,7 @@ content:
     path: _posts
     filename: '{year}-{month}-{day}-{primary}.markdown'
     view:
-      fields: [ title ]
+      fields: [ date, title ]
       primary: title
       sort: [ date, title ]
       default:
