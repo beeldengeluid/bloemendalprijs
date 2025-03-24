@@ -1,6 +1,6 @@
 ---
 title: Home
-photos:
+photo:
   image: /uploads/gijs_sanders.jpg
   txt: Gijs Sanders
 layout: home
