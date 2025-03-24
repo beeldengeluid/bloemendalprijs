@@ -47,11 +47,11 @@ content:
     view:
       fields: [ title, year ]
       primary: title
-      sort: [ year, title ]
+      sort: [ year ]
       default:
         search: ''
         sort: year
-        sort: desc
+        order: desc
     fields:
       - name: year
         label: Year
