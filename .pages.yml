@@ -55,9 +55,7 @@ content:
     fields:
       - name: year
         label: Year
-        type: date
-        options:
-          format: yyyy
+        type: number
       - name: title
         label: Title
         type: string
