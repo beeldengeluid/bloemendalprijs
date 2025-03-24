@@ -2,6 +2,33 @@ media:
   input: _uploads
   output: /uploads
 content:
+  - name: aanmelden
+    label: Aanmelden
+    type: file
+    path: aanmelden.markdown
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: body
+        label: Body
+        type: rich-text
+      - name: photos
+        label: Photos
+        type: object
+        list: true
+        fields:
+          - name: image
+            label: Photo
+            type: image
+          - name: txt
+            label: Alt text
+            type: string
+      - name: layout
+        label: Layout
+        type: string
+        default: page
+        hidden: true
   - name: artikel
     label: Nieuws
     type: collection
