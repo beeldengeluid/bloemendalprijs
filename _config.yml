@@ -16,6 +16,14 @@ defaults:
     path: ''
     type: pages
   values:
+    layout: home
+    photo:
+      image: 
+      txt: 
+- scope:
+    path: ''
+    type: pages
+  values:
     layout: page
     photos:
     - image: 
