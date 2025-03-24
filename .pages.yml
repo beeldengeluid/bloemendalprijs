@@ -53,8 +53,8 @@ content:
         sort: year
         sort: desc
     fields:
-      - name: date
-        label: Date
+      - name: year
+        label: Year
         type: date
         options:
           format: yyyy
