@@ -6,6 +6,7 @@ content:
     label: Nieuws
     type: collection
     path: _posts
+    filename: '{year}-{month}-{day}-{primary}.markdown'
     view:
       fields: [ title ]
       primary: title
