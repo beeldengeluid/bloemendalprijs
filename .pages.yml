@@ -2,7 +2,7 @@ media:
   input: _uploads
   output: /uploads
 content:
-  - name: _posts
+  - name: artikel
     label: Nieuws
     type: collection
     path: _posts
@@ -39,3 +39,43 @@ content:
           - name: txt
             label: Alt text
             type: string
+  - name: winnaar
+    label: Winnaars
+    type: collection
+    path: _winners
+    filename: {primary}.markdown
+    view:
+      fields: [ title, year ]
+      primary: title
+      sort: [ year, title ]
+      default:
+        search: ''
+        sort: year
+        sort: desc
+    fields:
+      - name: date
+        label: Date
+        type: date
+        options:
+          format: yyyy
+      - name: title
+        label: Title
+        type: string
+      - name: body
+        label: Body
+        type: rich-text
+      - name: photos
+        label: Photos
+        type: object
+        list: true
+        fields:
+          - name: image
+            label: Photo
+            type: image
+          - name: txt
+            label: Alt text
+            type: string
+    
+    
+    
+  
