@@ -30,5 +30,12 @@ content:
         type: rich-text
       - name: images
         label: Photos
-        type: image
+        type: object
         list: true
+        fields:
+          - name: image
+            label: Photo
+            type: image
+          - name: txt
+            label: Alt text
+            type: string
