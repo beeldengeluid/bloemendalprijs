@@ -2,6 +2,32 @@ media:
   input: _uploads
   output: /uploads
 content:
+  - name: home
+    label: Home
+    type: file
+    path: index.markdown
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: body
+        label: Body
+        type: rich-text
+      - name: photos
+        label: Photo
+        type: object
+        fields:
+          - name: image
+            label: Photo
+            type: image
+          - name: txt
+            label: Alt text
+            type: string
+      - name: layout
+        label: Layout
+        type: string
+        default: home
+        hidden: true
   - name: aanmelden
     label: Aanmelden
     type: file
