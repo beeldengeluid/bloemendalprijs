@@ -2,7 +2,7 @@ media:
   input: _uploads
   output: /uploads
 content:
-  - name: posts
+  - name: _posts
     label: Nieuws
     type: collection
     path: _posts
