@@ -28,3 +28,7 @@ content:
       - name: body
         label: Body
         type: rich-text
+      - name: images
+        label: Photos
+        type: image
+        list: true
