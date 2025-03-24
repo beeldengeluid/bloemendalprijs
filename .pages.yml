@@ -43,7 +43,7 @@ content:
     label: Winnaars
     type: collection
     path: _winners
-    filename: {primary}.markdown
+    filename: '{primary}.markdown'
     view:
       fields: [ title, year ]
       primary: title
