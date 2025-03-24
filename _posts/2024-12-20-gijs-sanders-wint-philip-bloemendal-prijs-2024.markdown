@@ -1,7 +1,7 @@
 ---
 date: 2024-12-20 14:30:00 +00:00
 title: Gijs Sanders wint Philip Bloemendal Prijs 2024
-images:
+photos:
   - image: /uploads/gijs_sanders.jpg
     txt: Gijs Sanders
 ---
