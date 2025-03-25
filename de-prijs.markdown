@@ -1,7 +1,7 @@
 ---
 title: De Prijs
 photos:
-- image: "/uploads/speech-trumpet.jpg"
+- image: "/uploads/kunstwerk_0.jpg"
   txt: Prijs en oorkondes
 layout: page
 ---

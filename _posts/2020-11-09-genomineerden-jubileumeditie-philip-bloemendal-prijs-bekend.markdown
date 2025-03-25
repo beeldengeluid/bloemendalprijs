@@ -2,7 +2,7 @@
 title: Genomineerden jubileumeditie Philip Bloemendal Prijs bekend
 date: 2020-11-09 14:51:00 +01:00
 photos:
-- image: "/uploads/Genomineerden%20Philip%20Bloemendal%20Prijs%202020-1a6f9d.jpg"
+- image: "/uploads/Genomineerden%20Philip%20Bloemendal%20Prijs%202020.jpg"
 ---
 
 De drie genomineerden voor de Philip Bloemendal Prijs 2020 zijn, in alfabetische volgorde: Ruben Leter (RTL Nieuws), Sid van der Linden (NOS radio) en Sosha Duysker (Klokhuis, NTR). De prijs wordt dit jaar voor de tiende keer uitgereikt bij Beeld en Geluid op woensdag 9 december live in het NPO Radio 1 programma Stax & Toine. 
