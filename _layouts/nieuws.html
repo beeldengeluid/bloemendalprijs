@@ -7,7 +7,7 @@
     </div>
     <div class="col-lg-8 mb-4">
       <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt | strip_html }}</p>
+      {{ post.excerpt }}
       <p><a href="{{ post.url | relative_url }}">Lees meer &raquo;</a></p>
     </div>
   </div>
