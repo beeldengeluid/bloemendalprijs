@@ -30,25 +30,25 @@ Het RSIN/Fiscaal nummer: 8103.95.691
 
 Balans en staat van baten en lasten:
 
-* [2013-2014](/uploads/Financieeljaarverslag2013-2014PBP.pdf)
-* [2015-2016](/uploads/Financieeljaarverslag2015-2016PBP.pdf)
-* [2017-2018](/uploads/Ph%20Bloemendal%202017%20-%202018.pdf)
-* [2018-2019](/uploads/Financieel%20jaarverslag%20Philip%20Bloemendal%201819-5.pdf)
-* [2019-2020](/uploads/Jaarcijfers%202020%20Stichting%20Philip%20Bloemendal%20excl.%20bankmutaties%20(1).pdf)
-* [2020-2021](/uploads/Jaarcijfers%202021%20Stichting%20Philip%20Bloemendal%20(1).pdf)
-* [2021-2022](/uploads/Jaarrekening%202022%20Stichting%20Philip%20Bloemendal%20(1).pdf)
-* [2022-2023](/uploads/Jaarrekening%202023%20Stichting%20Philip%20Bloemendal-f34cf9.pdf)
-* [2023-2024](/uploads/2023-2024.pdf)
+* [2013-2014](/uploads/pdf/Jaarcijfers-2013-2014.pdf)
+* [2015-2016](/uploads/pdf/Jaarcijfers-2015-2016.pdf)
+* [2017-2018](/uploads/pdf/Jaarcijfers-2017-2018.pdf)
+* [2018-2019](/uploads/pdf/Jaarcijfers-2018-2019.pdf)
+* [2019-2020](/uploads/pdf/Jaarcijfers-2019-2020.pdf)
+* [2020-2021](/uploads/pdf/Jaarcijfers-2020-2021.pdf)
+* [2021-2022](/uploads/pdf/Jaarcijfers-2021-2022.pdf)
+* [2022-2023](/uploads/pdf/Jaarcijfers-2022-2023.pdf)
+* [2023-2024](/uploads/pdf/Jaarcijfers-2023-2024.pdf)
 
 
 Verantwoording:
-* [Jaarverslag 2017-2018](/uploads/Jaarverslag2017_2018.pdf)
-* [Jaarverslag 2018-2019](/uploads/Jaarverslag%20Philip%20Bloemendal%201819.pdf)
-* [Jaarverslag 2019-2020](/uploads/PBP%20BESTUURSVERSLAG%202020.pdf)
-* [Jaarverslag 2020-2021](/uploads/Jaarverslag%20PBP%202021.pdf)
-* [Jaarverslag 2021-2022](/uploads/Verantwoording%202022%20bestuur%20Philip%20Bloemendal%20Prijs.docx)
-* [Jaarverslag 2022-2023](/uploads/Jaarverslag%202022-2023.docx.pdf)
-* [Jaarverslag 2023-2024](/uploads/Jaarverslag2023-2024.pdf)
+* [Jaarverslag 2017-2018](/uploads/pdf/Jaarverslag-2017-2018.pdf)
+* [Jaarverslag 2018-2019](/uploads/pdf/Jaarverslag-2018-2019.pdf)
+* [Jaarverslag 2019-2020](/uploads/pdf/Jaarverslag-2019-2020.pdf)
+* [Jaarverslag 2020-2021](/uploads/pdf/Jaarverslag-2020-2021.pdf)
+* [Jaarverslag 2021-2022](/uploads/pdf/Verantwoording-2022-bestuur-Philip-Bloemendal-Prijs.docx)
+* [Jaarverslag 2022-2023](/uploads/pdf/Jaarverslag-2022-2023.pdf)
+* [Jaarverslag 2023-2024](/uploads/pdf/Jaarverslag-2023-2024.pdf)
 
 
 Telefoon: 035 - 6775555  

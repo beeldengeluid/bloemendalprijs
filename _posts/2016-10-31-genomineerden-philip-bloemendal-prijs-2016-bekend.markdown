@@ -1,9 +1,6 @@
 ---
 title: Genomineerden Philip Bloemendal Prijs 2016 bekend
 date: 2016-10-31 23:00:00 +01:00
-categories:
-- nieuws
-layout: page
 photos:
 - image: "/uploads/pbplogo.png"
   txt: Philip Bloemendal Prijs

@@ -1,9 +1,6 @@
 ---
 title: Kandidaten Philip Bloemendal Prijs 2016 bekend!
 date: 2016-10-15 00:00:00 +02:00
-categories:
-- nieuws
-layout: page
 photos:
 - image: "/uploads/pbplogo.png"
   txt: Philip Bloemendal Prijs

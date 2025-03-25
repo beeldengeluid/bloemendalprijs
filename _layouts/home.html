@@ -5,24 +5,19 @@
       {% assign latest = site.posts[0] %}
       <h5>{{ latest.title }}</h5>
       <p>{{ latest.excerpt | strip_html }}</p>
-      <a href="{{ latest.url | relative_url }}">Lees meer &raquo;</a>
-      <!--
-      <hr>
-      <p>De eerstvolgende editie van de Philip Bloemendal Prijs (PBP) zal plaatsvinden op 13 december 2018.
-      Kandidaten kunnen zich aanmelden van 4 juni 2018 tot en met 8 oktober 2018.</p>
-      <div class="mx-auto" style="max-width:260px">
-        <a class="btn btn-primary btn-lg btn-block text-white" href="{{ '/aanmelden' | relative_url }}" role="button">Aanmelden</a>
-      </div>
-      -->
+      <a href="{{ latest.url | absolute_url }}">Lees meer &raquo;</a>
     </div>
     <div class="col-lg-6 mb-4">
+      <p>
+        <img src="{{ page.photo.image }}" alt="{{ page.photo.txt }}" class="img-fluid">
+      </p>
       {{ content }}
     </div>
     <div class="col-lg-3 mb-4">
       <div class="list-group list-group-flush">
         {% assign winners = site.winners | sort: 'year' | reverse %}
         {% for winner in winners %}
-        <a href="{{ winner.url | relative_url }}" class="list-group-item list-group-item-action">{{ winner.year }} &mdash; {{ winner.title }}</a>
+        <a href="{{ winner.url | absolute_url }}" class="list-group-item list-group-item-action">{{ winner.year }} &mdash; {{ winner.title }}</a>
         {% endfor %}
       </div>
     </div>

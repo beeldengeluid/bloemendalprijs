@@ -21,8 +21,7 @@
   <header>
     <nav class="navbar navbar-expand-md navbar-light bg-transparent">
       <div class="container">
-        <a class="navbar-brand" href="https://twitter.com/{{ site.twitter_username }}">
-          <img src="{{ '/assets/img/Twitter_Logo_Blue.png' | relative_url }}" height="26" width="26" class="d-inline-block align-top" alt="Twitter">
+        <a class="navbar-brand" href="{{ '/' | absolute_url }}">
           @bloemendalprijs
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -30,13 +29,13 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ml-auto">
-            <li class="nav-item"><a class="nav-link" href="{{ '/' | relative_url }}">Home</a></li>
-            <li class="nav-item"><a class="nav-link" href="{{ '/aanmelden' | relative_url }}">Aanmelden</a></li>
-            <li class="nav-item"><a class="nav-link" href="{{ '/nieuwsoverzicht' | relative_url }}">Nieuws</a></li>
-            <li class="nav-item"><a class="nav-link" href="{{ '/de-prijs' | relative_url }}">De Prijs</a></li>
-            <li class="nav-item"><a class="nav-link" href="{{ '/winnaars' | relative_url }}">Winnaars</a></li>
-            <li class="nav-item"><a class="nav-link" href="{{ '/philip-bloemendal' | relative_url }}">Philip Bloemendal</a></li>
-            <li class="nav-item"><a class="nav-link" href="{{ '/de-stichting' | relative_url }}">De Stichting</a></li>
+            <li class="nav-item"><a class="nav-link" href="{{ '/' | absolute_url }}">Home</a></li>
+            <li class="nav-item"><a class="nav-link" href="{{ '/aanmelden' | absolute_url }}">Aanmelden</a></li>
+            <li class="nav-item"><a class="nav-link" href="{{ '/nieuwsoverzicht' | absolute_url }}">Nieuws</a></li>
+            <li class="nav-item"><a class="nav-link" href="{{ '/de-prijs' | absolute_url }}">De Prijs</a></li>
+            <li class="nav-item"><a class="nav-link" href="{{ '/winnaars' | absolute_url }}">Winnaars</a></li>
+            <li class="nav-item"><a class="nav-link" href="{{ '/philip-bloemendal' | absolute_url }}">Philip Bloemendal</a></li>
+            <li class="nav-item"><a class="nav-link" href="{{ '/de-stichting' | absolute_url }}">De Stichting</a></li>
           </ul>
         </div>
       </div>

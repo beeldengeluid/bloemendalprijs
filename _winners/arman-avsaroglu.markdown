@@ -1,7 +1,5 @@
 ---
 title: Arman Avsaroglu
-position: 4
-layout: page
 year: 2014
 photos:
 - image: "/uploads/philip-bloemendal-prijs-2014-bho-1352.jpg"

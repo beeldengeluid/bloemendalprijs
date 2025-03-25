@@ -19,7 +19,7 @@ These instructions will get you a copy of the project up and running on your loc
 gem install jekyll bundler
 
 # Change into your new directory
-cd bloemendalprijs.github.io
+cd bloemendalprijs
 
 # Build the site on the preview server
 bundle exec jekyll serve
@@ -36,14 +36,6 @@ Just about any traditional web hosting provider will let you upload files to the
 * [Jekyl](https://jekyllrb.com/)
 * [Markdown](https://daringfireball.net/projects/markdown/)
 * [Liquid](https://shopify.github.io/liquid/)
-
-## Authors
-
-* __Frank Sträter__ - code
-
-## Acknowledgments
-
-* [Siteleaf](https://www.siteleaf.com/), an excellent Content Management System for Jekyll powered websites.
 
 ## License
 

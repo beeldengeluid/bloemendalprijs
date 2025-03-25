@@ -1,7 +1,5 @@
 ---
 title: Eva Cleven
-position: 3
-layout: page
 year: 2016
 photos:
 - image: "/uploads/website_eva_cleven_01_1.jpg"

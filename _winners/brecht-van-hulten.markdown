@@ -1,7 +1,5 @@
 ---
 title: Brecht van Hulten
-position: 10
-layout: page
 year: 2002
 photos:
 - image: "/uploads/winnaar2002_0.jpg"

@@ -1,9 +1,6 @@
 ---
 title: RTL4 nieuwslezer Antoin Peeters in jury Philip Bloemendal Prijs
 date: 2016-12-30 23:00:00 +01:00
-categories:
-- nieuws
-layout: page
 photos:
 - image: "/uploads/antoinpeeters.jpg"
   txt: Antoin Peeters

@@ -1,9 +1,6 @@
 ---
 title: CEO IDTV Taco Rijssemus toegetreden tot bestuur Philip Bloemendal Prijs
 date: 2018-01-31 23:00:00 +01:00
-categories:
-- nieuws
-layout: page
 photos:
 - image: "/uploads/tacorijssemus.jpg"
   txt: Taco Rijssemus

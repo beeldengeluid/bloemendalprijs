@@ -1,9 +1,6 @@
 ---
 title: Longlist kandidaten Philip Bloemendal Prijs 2018 bekend
 date: 2018-11-05 23:00:00 +01:00
-categories:
-- nieuws
-layout: page
 photos:
 - image: "/uploads/pbplogo.png"
   txt: Philip Bloemendal Prijs

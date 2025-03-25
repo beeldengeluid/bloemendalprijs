@@ -1,0 +1,210 @@
+media:
+  input: _uploads
+  output: /uploads
+content:
+  - name: home
+    label: Home
+    type: file
+    path: index.markdown
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: body
+        label: Body
+        type: rich-text
+      - name: photo
+        label: Photo
+        type: object
+        fields:
+          - name: image
+            label: Photo
+            type: image
+          - name: txt
+            label: Alt text
+            type: string
+      - name: layout
+        label: Layout
+        type: string
+        default: home
+        hidden: true
+  - name: aanmelden
+    label: Aanmelden
+    type: file
+    path: aanmelden.markdown
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: body
+        label: Body
+        type: rich-text
+      - name: photos
+        label: Photos
+        type: object
+        list: true
+        fields:
+          - name: image
+            label: Photo
+            type: image
+          - name: txt
+            label: Alt text
+            type: string
+      - name: layout
+        label: Layout
+        type: string
+        default: page
+        hidden: true
+  - name: nieuws
+    label: Nieuws
+    type: collection
+    path: _posts
+    filename: '{year}-{month}-{day}-{primary}.markdown'
+    view:
+      fields: [ date, title ]
+      primary: title
+      sort: [ date, title ]
+      default:
+        search: ''
+        sort: date
+        order: desc
+    fields:
+      - name: date
+        label: Date
+        type: date
+        options:
+          time: true
+          format: yyyy-MM-dd HH:mm:ss xxx
+      - name: title
+        label: Title
+        type: string
+      - name: body
+        label: Body
+        type: rich-text
+      - name: photos
+        label: Photos
+        type: object
+        list: true
+        fields:
+          - name: image
+            label: Photo
+            type: image
+          - name: txt
+            label: Alt text
+            type: string
+  - name: de-prijs
+    label: De Prijs
+    type: file
+    path: de-prijs.markdown
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: body
+        label: Body
+        type: rich-text
+      - name: photos
+        label: Photos
+        type: object
+        list: true
+        fields:
+          - name: image
+            label: Photo
+            type: image
+          - name: txt
+            label: Alt text
+            type: string
+      - name: layout
+        label: Layout
+        type: string
+        default: page
+        hidden: true
+  - name: winnaars
+    label: Winnaars
+    type: collection
+    path: _winners
+    filename: '{primary}.markdown'
+    view:
+      fields: [ title, year ]
+      primary: title
+      sort: [ year ]
+      default:
+        search: ''
+        sort: year
+        order: desc
+    fields:
+      - name: year
+        label: Year
+        type: number
+      - name: title
+        label: Title
+        type: string
+      - name: body
+        label: Body
+        type: rich-text
+      - name: photos
+        label: Photos
+        type: object
+        list: true
+        fields:
+          - name: image
+            label: Photo
+            type: image
+          - name: txt
+            label: Alt text
+            type: string
+  - name: philip-bloemendal
+    label: Philip Bloemendal
+    type: file
+    path: philip-bloemendal.markdown
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: body
+        label: Body
+        type: rich-text
+      - name: photos
+        label: Photos
+        type: object
+        list: true
+        fields:
+          - name: image
+            label: Photo
+            type: image
+          - name: txt
+            label: Alt text
+            type: string
+      - name: layout
+        label: Layout
+        type: string
+        default: page
+        hidden: true
+  - name: de-stichting
+    label: De Stichting
+    type: file
+    path: de-stichting.markdown
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: body
+        label: Body
+        type: rich-text
+      - name: photos
+        label: Photos
+        type: object
+        list: true
+        fields:
+          - name: image
+            label: Photo
+            type: image
+          - name: txt
+            label: Alt text
+            type: string
+      - name: layout
+        label: Layout
+        type: string
+        default: page
+        hidden: true
+

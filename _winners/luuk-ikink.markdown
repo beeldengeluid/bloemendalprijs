@@ -1,7 +1,5 @@
 ---
 title: Luuk Ikink
-position: 5
-layout: page
 year: 2012
 photos:
 - image: "/uploads/hr-pbp2012-small.jpg"

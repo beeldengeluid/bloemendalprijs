@@ -1,7 +1,5 @@
 ---
 title: Ajouad El-Miloudi
-position: 6
-layout: page
 year: 2010
 photos:
 - image: "/uploads/winnaar2010_0.jpg"
