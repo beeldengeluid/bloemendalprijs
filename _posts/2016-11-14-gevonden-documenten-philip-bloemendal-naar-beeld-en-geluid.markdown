@@ -1,9 +1,6 @@
 ---
 title: Gevonden documenten Philip Bloemendal naar Beeld en Geluid
 date: 2016-11-14 23:00:00 +01:00
-categories:
-- nieuws
-layout: page
 photos:
 - image: "/uploads/mieke_bloemendal_draagt_de_documenten_over_aan_jan_muller_directeur_beeld_en_geluid.png"
   txt: Mieke_Bloemendal draagt de documenten over aan Jan Muller

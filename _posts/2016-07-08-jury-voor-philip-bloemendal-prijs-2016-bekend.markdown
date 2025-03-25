@@ -1,9 +1,6 @@
 ---
 title: Jury voor Philip Bloemendal Prijs 2016 bekend
 date: 2016-07-08 00:00:00 +02:00
-categories:
-- nieuws
-layout: page
 photos:
 - image: "/uploads/pbplogo.png"
   txt: Philip Bloemendal Prijs

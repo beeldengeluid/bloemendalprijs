@@ -1,7 +1,5 @@
 ---
 title: Lucella Carasso
-position: 9
-layout: page
 year: 2004
 photos:
 - image: "/uploads/winnaar2004_0.jpg"

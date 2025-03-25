@@ -1,9 +1,6 @@
 ---
 title: Wim Daniëls over Philip Bloemendal
 date: 2018-06-01 00:00:00 +02:00
-categories:
-- nieuws
-layout: page
 photos:
 - image: "/uploads/bloemendaldaniels.jpg"
   txt: Wim Daniëls

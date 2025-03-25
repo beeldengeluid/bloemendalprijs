@@ -1,7 +1,5 @@
 ---
 title: Sofie van den Enk
-position: 7
-layout: page
 year: 2008
 photos:
 - image: "/uploads/winnaar2008_0.jpg"

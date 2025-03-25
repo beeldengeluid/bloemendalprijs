@@ -1,9 +1,6 @@
 ---
 title: Prijzen Polygoon-Journaal naar Beeld en Geluid
 date: 2012-12-14 23:00:00 +01:00
-categories:
-- nieuws
-layout: page
 photos:
 - image: "/uploads/overdracht_prijzen.jpg"
   txt: Overdracht prijzen

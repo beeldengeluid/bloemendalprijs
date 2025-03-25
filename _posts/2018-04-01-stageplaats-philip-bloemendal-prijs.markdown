@@ -1,9 +1,6 @@
 ---
 title: Stageplaats Philip Bloemendal Prijs
 date: 2018-04-01 00:00:00 +02:00
-categories:
-- nieuws
-layout: page
 photos:
 - image: "/uploads/pbplogo.png"
   txt: Philip Bloemendal Prijs
@@ -41,7 +38,7 @@ Een afgeleide opdracht is suggesties te doen voor de wijze waarop de erfenis van
 
 Bovendien kan de stagiair, mede afhankelijk van zijn/haar belangstelling, als onderdeel van de stage een stageonderzoek doen (in overleg te formuleren).
 
-De stagiair zal worden geplaatst bij de Reputatiegroep (Utrecht), [www.reputatiegroep.nl](http://www.reputatiegroep.nl) en worden begeleid door Rein Croll van de Reputatiegroep.
+De stagiair zal worden geplaatst bij de Reputatiegroep (Utrecht), [www.reputatiegroep.nl](https://www.reputatiegroep.nl) en worden begeleid door Rein Croll van de Reputatiegroep.
 
 **De communicatie over de prijs richt zich op**
 
@@ -64,7 +61,7 @@ Deze betreffen datum uitreiking, aanmeldingen, de bekendmaking van de jury,  etc
 
 * Website
 
-Op de site  [www.bloemendal.info](http://www.bloemendal.info) worden alle updates en nieuwsberichten bijgehouden.
+Op de site  [www.bloemendal.info](https://www.bloemendal.info) worden alle updates en nieuwsberichten bijgehouden.
 
 * Filmpjes van diverse aard (oproep, genomineerden, oud winnaars.
 * Social media (Twitter/Instagram/Facebook etc.)

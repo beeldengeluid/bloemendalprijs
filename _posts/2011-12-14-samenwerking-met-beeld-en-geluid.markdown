@@ -1,9 +1,6 @@
 ---
 title: Samenwerking met Beeld en Geluid
 date: 2011-12-14 23:00:00 +01:00
-categories:
-- nieuws
-layout: page
 photos:
 - image: "/uploads/beeld_en_geluid_zijkant.jpg"
   txt: Beeld en Geluid zijkant

@@ -1,8 +1,6 @@
 ---
 title: Saskia Houttuin bekroond tot grootste journalistieke presentatietalent
 date: 2018-12-13 11:01:00 +01:00
-categories:
-- nieuws
 photos:
 - image: "/uploads/Philip%20Bloemendal%20prijs%2009.jpg"
   txt: 

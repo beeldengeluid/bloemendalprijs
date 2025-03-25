@@ -1,7 +1,5 @@
 ---
 title: Wouter Zwart
-position: 8
-layout: page
 year: 2006
 photos:
 - image: "/uploads/winnaar2006_0.jpg"
