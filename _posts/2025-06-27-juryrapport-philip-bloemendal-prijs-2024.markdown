@@ -4,9 +4,7 @@ title: Juryrapport Philip Bloemendal Prijs 2024
 photos:
   - image: /uploads/IMG_7704.jpg
 ---
-Bij de laatste verkiezing van de Philip Bloemendal Prijs roemde de jury het lef van jonge journalisten om voor het vak te kiezen. Dat was omdat toen bedreigingen bijna net zo vaak in de digitale brievenbus terechtkwamen als de bezorger met een pakketje voor de buren. Die
-
-bedreigingen zijn er nog steeds, maar...
+Bij de laatste verkiezing van de Philip Bloemendal Prijs roemde de jury het lef van jonge journalisten om voor het vak te kiezen. Dat was omdat toen bedreigingen bijna net zo vaak in de digitale brievenbus terechtkwamen als de bezorger met een pakketje voor de buren. Die bedreigingen zijn er nog steeds, maar...
 
 Twee jaar later zijn er nieuwe journalistieke uitdagingen. Waarom zouden mensen het nieuws nog volgen in een chaotische en onzekere tijd? Met oorlog in Europa, het Midden-Oosten dat in brand staat. Hoe geef je gewicht aan het aantal doden, als het er zóveel zijn, dat een menselijk brein dat niet meer snapt? Een nieuwe president in Amerika, de opmars van AI, de politieke instabiliteit in ons eigen land.
 
