@@ -17,6 +17,8 @@ Voor overige voorwaarden zie [reglement](#reglement)
 
 ### Jurering
 
+Sinds 2024 kunnen presentatoren zichzelf niet meer aanmelden of zich laten aanmelden door hun werkgevers. De jury stelt zelf een longlist van mogelijke kandidaten samen, waaruit de drie genomineerden en de winnaar geselecteerd worden. 
+
 Kwaliteit van aankomend talent wordt door een vakjury beoordeeld op onder meer de volgende onderdelen:
 
 - het effectief overdragen van gesproken teksten in de Nederlandse taal van nieuwsberichten, actualiteiten, achtergrondnieuws en bij documentaire programma’s;
