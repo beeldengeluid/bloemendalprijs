@@ -23,7 +23,7 @@ Kwaliteit van aankomend talent wordt door een vakjury beoordeeld op onder meer d
 - het zorgvuldig en doelmatig gebruik van de Nederlandse taal;
 - stem, spraak, formulering en aspecten van persoonlijke presentatie.
 
-In 2024 bestaat de vakjury uit voorzitter Evelien de Bruijn (programmamaakster en presentatrice), Iris van Lunenburg (presentatrice en columniste), Pepijn Crone (presentator RTL Nieuws), Winfried Baijens (presentator NOS Nieuws) en Stephan Komduur(winnaar 2022). 
+In 2026 bestaat de vakjury uit voorzitter Evelien de Bruijn (programmamaakster en presentatrice), Iris van Lunenburg (presentatrice en columniste), Pepijn Crone (presentator RTL Nieuws), Winfried Baijens (presentator NOS Nieuws) en Stephan Komduur(winnaar 2022). 
 
 ### Speech Trumpet
 
