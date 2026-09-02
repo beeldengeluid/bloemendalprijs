@@ -47,7 +47,7 @@ Verantwoording:
 - [Jaarverslag 2021-2022](/uploads/pdf/Verantwoording-2022-bestuur-Philip-Bloemendal-Prijs.docx)
 - [Jaarverslag 2022-2023](/uploads/pdf/Jaarverslag-2022-2023.pdf)
 - [Jaarverslag 2023-2024](/uploads/pdf/Jaarverslag-2023-2024.pdf)
-- [Jaarverslag 2024-2025](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://drive.usercontent.google.com/download?id=1RbmsBPXxEAPctnh5YCQmA5wrX3VTlznH&authuser=0&acrobatPromotionSource=gdrive_chrome-list)
+- [Jaarverslag 2024-2025](https://drive.google.com/file/d/1RbmsBPXxEAPctnh5YCQmA5wrX3VTlznH/view?usp=drive_link)
 
 Telefoon: 035 - 6775555  
 E-mail: [jleijssen@beeldengeluid.nl](mailto:jleijssen@beeldengeluid.nl)
