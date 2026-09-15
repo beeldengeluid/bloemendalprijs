@@ -37,7 +37,7 @@ Balans en staat van baten en lasten:
 - [2021-2022](/uploads/pdf/Jaarcijfers-2021-2022.pdf)
 - [2022-2023](/uploads/pdf/Jaarcijfers-2022-2023.pdf)
 - [2023-2024](/uploads/pdf/Jaarcijfers-2023-2024.pdf)
-- 
+- [2024-2025](_uploads/pdf/Jaarrekening 2025 Stichting Philip Bloemendal.pdf)
 
 Verantwoording:
 
