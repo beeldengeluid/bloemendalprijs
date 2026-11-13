@@ -1,5 +1,5 @@
 ---
-date: 2026-11-13 15:09:00 +00:00
+date: 2026-11-13 14:09:00 +00:00
 title: Genomineerden Philip Bloemendal Prijs 2026 bekend
 photos:
   - image: /uploads/Persbericht PBP Genomineerden (1).png
