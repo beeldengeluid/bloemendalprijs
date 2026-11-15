@@ -1,7 +1,7 @@
 ---
 title: Home
 photo:
-  image: /uploads/gijs_sanders.jpg
+  image: /uploads/2026-genomineerden.jpg
   txt: Gijs Sanders
 layout: home
 ---
