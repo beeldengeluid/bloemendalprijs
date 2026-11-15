@@ -2,9 +2,9 @@
 date: 2026-11-13 14:09:00 +00:00
 title: Genomineerden Philip Bloemendal Prijs 2026 bekend
 photos:
-  - image: /uploads/2026-genomineerden.png
+  - image: /uploads/2026-genomineerden.jpg
     txt: "V.l.n.r.: Syb Faes, Ilse Lavell en Jan Willem Wesselink"
-  - image: /uploads/JuryPBP2026.jpeg
+  - image: /uploads/JuryPBP2026.jpg
     txt: "De vakjury (v.l.n.r.): plaatsvervangend voorzitter Winfried Baijens, Gijs
       Sanders, Lisette Wellens en Pepijn Crone tijdens het juryberaad"
 ---
