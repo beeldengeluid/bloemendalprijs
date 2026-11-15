@@ -3,7 +3,7 @@ year: 2024
 title: Gijs Sanders
 photos:
   - image: /uploads/gijs_sanders.jpg
-  - image: /uploads/IMG_7704-1.jpg
+  - image: /uploads/IMG_7704.jpg
     txt: "V.l.n.r.: Chaira Koops, Jan van Poppel en Gijs Sanders "
 ---
 De winnaar van de Philip Bloemendal prijs 2024 is Gijs Sanders, presentator van het online platform De Marker (BNNVARA). Dat maakte Humberto Tan op 20 december jl. bekend in AVROTROS-programma Humberto op NPO Radio 1. De Marker brengt dagelijks nieuws, achtergronden en opinie voor jongeren op hun Instagram-account, TikTok-kanaal en met een podcast. Deze tweejaarlijkse stimuleringsprijs, voor jong journalistiek presentatietalent in de media, werd voor de twaalfde keer uitgereikt live bij Beeld & Geluid.
