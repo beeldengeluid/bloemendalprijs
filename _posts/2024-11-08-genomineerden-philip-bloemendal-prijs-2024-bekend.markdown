@@ -2,7 +2,7 @@
 title: Genomineerden Philip Bloemendal Prijs 2024 bekend
 date: 2024-11-08 13:10:00 +01:00
 photos:
-- image: "/uploads/2024-genomineerden.png"
+- image: "/uploads/2024-genomineerden.jpg"
   txt: 'V.l.n.r.: Gijs Sanders, Jan van Poppel en Chaira Koops'
 - image: "/uploads/2024-jury.jpg"
   txt: 'De vakjury (v.l.n.r.): Pepijn Crone, Stephan Komduur, Evelien de Bruijn, Iris
